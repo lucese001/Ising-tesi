@@ -4,3 +4,8 @@
 *.obj
 .DS_Store
 Thumbs.db
+# Escludi questi file specifici
+ising_old.cpp
+ising_test.cpp
+main.c
+readme.md  # se non lo vuoi
